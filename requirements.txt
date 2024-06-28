@@ -1,0 +1,6 @@
+geopandas
+pandas
+sqlalchemy
+requests
+urllib.request
+shapely
